@@ -1,0 +1,6 @@
+{
+  "editor.fontSize": 12,
+  "editor.fontFamily": "Fira Code",
+  "editor.tabSize": 2,
+  "workbench.experimental.cloudChanges.partialMatches.enabled": true
+}
